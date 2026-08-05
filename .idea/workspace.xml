@@ -4,22 +4,99 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa1b550b-535d-4ae3-972b-443463aa818b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python learning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="aa1b550b-535d-4ae3-972b-443463aa818b" name="Changes" comment="added all files">
+      <change afterPath="$PROJECT_DIR$/Menu Card.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quiz game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randon number guessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temperature.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/calci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shahid-khan-tech01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Shahid-khan-tech01/python-learning01.git",
+    "accountId": "aab0f195-78dc-4f5d-a46e-d7eed074c81c"
+  }
+}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0005535179866842" />
+      <entry key="S2" value="1.2354388673681065" />
+      <entry key="S5" value="2.0210589782907897" />
+      <entry key="S10" value="2.731907032809969" />
+      <entry key="S30" value="3.5860981873775417" />
+      <entry key="S60" value="4.348391221296131" />
+      <entry key="M2" value="5.695992396741412" />
+      <entry key="M5" value="8.401483254787252" />
+      <entry key="M10" value="10.47718936675971" />
+      <entry key="M15" value="11.444721269415345" />
+      <entry key="M30" value="12.604136037569178" />
+      <entry key="H1" value="13.26932770027191" />
+      <entry key="H2" value="13.626041395403606" />
+      <entry key="H4" value="13.810807741202703" />
+      <entry key="D1" value="13.968155605074834" />
+      <entry key="W1" value="13.995443085244753" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9138314502294005" />
+      <entry key="MS500" value="0.982683995729418" />
+      <entry key="S2" value="1.2299860834657101" />
+      <entry key="S5" value="2.0176052433990495" />
+      <entry key="S10" value="2.729605437626029" />
+      <entry key="S30" value="3.585099297744581" />
+      <entry key="S60" value="4.347767533150229" />
+      <entry key="M2" value="5.695508011463889" />
+      <entry key="M5" value="8.40108303479732" />
+      <entry key="M10" value="10.476897624548926" />
+      <entry key="M15" value="11.444497188200252" />
+      <entry key="M30" value="12.604005966452272" />
+      <entry key="H1" value="13.2692574334789" />
+      <entry key="H2" value="13.626004851905417" />
+      <entry key="H4" value="13.810789103322211" />
+      <entry key="D1" value="13.968152446714823" />
+      <entry key="W1" value="13.995442632760001" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 2,
@@ -38,6 +115,8 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.main.executor": "Run",
+    "Python.quiz game.executor": "Run",
+    "Python.randon number guessing.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -47,8 +126,10 @@
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true"
@@ -69,14 +150,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1785868748191</updated>
-      <workItem from="1785868749315" duration="203000" />
+      <workItem from="1785868749315" duration="884000" />
     </task>
+    <task id="LOCAL-00001" summary="added all files">
+      <option name="closed" value="true" />
+      <created>1785911632522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785911632522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="added all files" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1785868772050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$quiz_game.coverage" NAME="quiz game Coverage Results" MODIFIED="1785912148096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1785911981958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$randon_number_guessing.coverage" NAME="randon number guessing Coverage Results" MODIFIED="1785912229586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
