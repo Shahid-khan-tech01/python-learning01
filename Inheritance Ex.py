@@ -1,4 +1,4 @@
-#Inheritance
+#   Inheritance : It allows a class to inherit attributes and methods from another class.
 
 class Animal:
     def __init__(self, name):

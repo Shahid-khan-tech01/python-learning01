@@ -1,4 +1,4 @@
-# Super()
+# Super() : The function used in a child class to call methods from a parent class (super class).
 
 class Shape:
     def __init__(self, color, is_filled):

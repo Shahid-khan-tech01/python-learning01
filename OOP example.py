@@ -1,4 +1,8 @@
-# Objects and Class in Python
+# Objects & Class in Python  ==>
+# Object = A 'Bundle' of related attribute(variables) and Methods(functions).
+# Class = (Blueprint) Used to design the structure and layout of an object.
+
+# Creating __init__ which is the constructor used for initialization
 
 
 class Car:
