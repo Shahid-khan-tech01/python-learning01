@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa1b550b-535d-4ae3-972b-443463aa818b" name="Changes" comment="added all files">
+      <change afterPath="$PROJECT_DIR$/@Property.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alarm clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File detection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Magic Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Writing file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/date and time.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all Methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/ASI Methods.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,60 +44,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000897542596747" />
-      <entry key="S5" value="1.0529579300284873" />
-      <entry key="S10" value="1.5316120508737838" />
-      <entry key="S30" value="3.8553071167471566" />
-      <entry key="S60" value="6.829377809325808" />
-      <entry key="M2" value="12.540610044578568" />
-      <entry key="M5" value="23.063443888435764" />
-      <entry key="M10" value="31.370432280693546" />
-      <entry key="M15" value="39.14246540581931" />
-      <entry key="M30" value="63.272464014006154" />
-      <entry key="H1" value="94.28261992743933" />
-      <entry key="H2" value="120.43230217307048" />
-      <entry key="H4" value="150.1761318635474" />
-      <entry key="D1" value="574.8867845819843" />
-      <entry key="W1" value="952.2803196119229" />
+      <entry key="MS500" value="1.0000000000169726" />
+      <entry key="S2" value="1.002038780006095" />
+      <entry key="S5" value="1.0979623059288257" />
+      <entry key="S10" value="1.4578771067762395" />
+      <entry key="S30" value="2.7932687579959286" />
+      <entry key="S60" value="4.3773082492642175" />
+      <entry key="M2" value="6.771256803583156" />
+      <entry key="M5" value="16.290947065091913" />
+      <entry key="M10" value="35.818428232992865" />
+      <entry key="M15" value="56.511203171917145" />
+      <entry key="M30" value="112.62592089688128" />
+      <entry key="H1" value="188.5661752719208" />
+      <entry key="H2" value="263.5137707259697" />
+      <entry key="H4" value="332.3396705717858" />
+      <entry key="D1" value="875.6921953885327" />
+      <entry key="W1" value="1605.0228330490936" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="0.0" />
-      <entry key="M2" value="7.581975734925813E-207" />
-      <entry key="M5" value="7.434660706849259E-83" />
-      <entry key="M10" value="1.6923889814451008E-41" />
-      <entry key="M15" value="1.0419071308174142E-27" />
-      <entry key="M30" value="6.442862624120079E-14" />
-      <entry key="H1" value="5.123946617129591E-7" />
-      <entry key="H2" value="0.0015485003634480958" />
-      <entry key="H4" value="0.09636425522987455" />
-      <entry key="D1" value="3.707167289504241" />
-      <entry key="W1" value="7.160392698958639" />
+      <entry key="S2" value="1.5158941458135416E-95" />
+      <entry key="S5" value="1.181048005830013E-38" />
+      <entry key="S10" value="1.0867910559748694E-19" />
+      <entry key="S30" value="4.917505238009295E-7" />
+      <entry key="S60" value="8.113814950821425E-4" />
+      <entry key="M2" value="0.037263895806499775" />
+      <entry key="M5" value="0.3978094342816005" />
+      <entry key="M10" value="0.8891953475276623" />
+      <entry key="M15" value="1.1752192691994234" />
+      <entry key="M30" value="1.7902897276787957" />
+      <entry key="H1" value="3.0837368118025306" />
+      <entry key="H2" value="4.918536325475388" />
+      <entry key="H4" value="6.656917961298448" />
+      <entry key="D1" value="12.081366935960386" />
+      <entry key="W1" value="18.1788144542334" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9075191553171609" />
-      <entry key="MS500" value="0.9807790039885513" />
-      <entry key="S2" value="0.9952490228005706" />
-      <entry key="S5" value="1.0509083591106019" />
-      <entry key="S10" value="1.5300534304111215" />
-      <entry key="S30" value="3.8504396942165737" />
-      <entry key="S60" value="6.814211623328107" />
-      <entry key="M2" value="12.512063171800817" />
-      <entry key="M5" value="23.031700142020615" />
-      <entry key="M10" value="31.345543975173694" />
-      <entry key="M15" value="39.12016604492026" />
-      <entry key="M30" value="63.25256420065473" />
-      <entry key="H1" value="94.26710334174456" />
-      <entry key="H2" value="120.42376398087944" />
-      <entry key="H4" value="150.2662802573299" />
-      <entry key="D1" value="578.5904046038262" />
-      <entry key="W1" value="959.4398801788927" />
+      <entry key="MS100" value="0.8293195458144417" />
+      <entry key="MS500" value="0.963261894036565" />
+      <entry key="S2" value="0.9927080748646144" />
+      <entry key="S5" value="1.0939153710486302" />
+      <entry key="S10" value="1.4552485967529385" />
+      <entry key="S30" value="2.7807858923798623" />
+      <entry key="S60" value="4.351318151719249" />
+      <entry key="M2" value="6.7746277587369175" />
+      <entry key="M5" value="16.63996022624262" />
+      <entry key="M10" value="36.65617644618422" />
+      <entry key="M15" value="57.64011213352053" />
+      <entry key="M30" value="114.38199750675754" />
+      <entry key="H1" value="191.62538238726754" />
+      <entry key="H2" value="268.4157060989854" />
+      <entry key="H4" value="338.9859448648912" />
+      <entry key="D1" value="887.7682207904036" />
+      <entry key="W1" value="1623.2002203406755" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -110,12 +116,20 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.@Property.executor": "Run",
     "Python.ASI Methods.executor": "Run",
+    "Python.Alarm clock.executor": "Run",
     "Python.Banking Program.executor": "Run",
+    "Python.Decorators.executor": "Run",
     "Python.Duck Typing.executor": "Run",
+    "Python.File detection.executor": "Run",
     "Python.Hangman Game.executor": "Run",
     "Python.Inheritnace Types.executor": "Run",
+    "Python.Magic Methods.executor": "Run",
     "Python.Polymorphism.executor": "Run",
+    "Python.Reading file.executor": "Run",
+    "Python.creating file.executor": "Run",
+    "Python.date and time.executor": "Run",
     "Python.encryption program.executor": "Run",
     "Python.main.executor": "Run",
     "Python.quiz game.executor": "Run",
@@ -136,7 +150,7 @@
     "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
@@ -157,7 +171,8 @@
       <updated>1785868748191</updated>
       <workItem from="1785868749315" duration="9392000" />
       <workItem from="1785954197264" duration="34000" />
-      <workItem from="1785955917176" duration="14116000" />
+      <workItem from="1785955917176" duration="20268000" />
+      <workItem from="1786116934157" duration="10218000" />
     </task>
     <task id="LOCAL-00001" summary="added all files">
       <option name="closed" value="true" />
@@ -199,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786030073699</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="added all files">
+      <option name="closed" value="true" />
+      <created>1786094325430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1786094325430</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,15 +233,23 @@
     <option name="LAST_COMMIT_MESSAGE" value="added all files" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_learning$ASI_Methods.coverage" NAME="ASI Methods Coverage Results" MODIFIED="1786094279583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$Polymorphism.coverage" NAME="Polymorphism Coverage Results" MODIFIED="1786031793033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Duck_Typing.coverage" NAME="Duck Typing Coverage Results" MODIFIED="1786032675551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$quiz_game.coverage" NAME="quiz game Coverage Results" MODIFIED="1785912148096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Hangman_Game.coverage" NAME="Hangman Game Coverage Results" MODIFIED="1785953348695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$creating_file.coverage" NAME="creating file Coverage Results" MODIFIED="1786117826957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Reading_file.coverage" NAME="Reading file Coverage Results" MODIFIED="1786173198718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Magic_Methods.coverage" NAME="Magic Methods Coverage Results" MODIFIED="1786096941242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Decorators.coverage" NAME="Decorators Coverage Results" MODIFIED="1786106810294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Alarm_clock.coverage" NAME="Alarm clock Coverage Results" MODIFIED="1786182022021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$randon_number_guessing.coverage" NAME="randon number guessing Coverage Results" MODIFIED="1785912229586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$_Property.coverage" NAME="@Property Coverage Results" MODIFIED="1786098183777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$ASI_Methods.coverage" NAME="ASI Methods Coverage Results" MODIFIED="1786094279583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Polymorphism.coverage" NAME="Polymorphism Coverage Results" MODIFIED="1786031793033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$File_detection.coverage" NAME="File detection Coverage Results" MODIFIED="1786114631140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$date_and_time.coverage" NAME="date and time Coverage Results" MODIFIED="1786174317526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$encryption_program.coverage" NAME="encryption program Coverage Results" MODIFIED="1785946984945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Inheritnace_Types.coverage" NAME="Inheritnace Types Coverage Results" MODIFIED="1786009517834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1786012295055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$Hangman_Game.coverage" NAME="Hangman Game Coverage Results" MODIFIED="1785953348695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1786096712314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Banking_Program.coverage" NAME="Banking Program Coverage Results" MODIFIED="1785941203516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python_learning$randon_number_guessing.coverage" NAME="randon number guessing Coverage Results" MODIFIED="1785912229586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
