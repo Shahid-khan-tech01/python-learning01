@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa1b550b-535d-4ae3-972b-443463aa818b" name="Changes" comment="added all files">
-      <change afterPath="$PROJECT_DIR$/Multithreading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5  Images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5  Layouts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 Buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 CSS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 Checkboxes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 Digital Clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 Labels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 Line Edits.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyQt5 RadioButtons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request api data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyQT5 GUI Boiler plate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stopwatch Project.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python learning.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,61 +38,61 @@
 }</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0042157352988454" />
-      <entry key="MS500" value="1.3349518620982952" />
-      <entry key="S2" value="1.8150028901629156" />
-      <entry key="S5" value="2.3644524648224112" />
-      <entry key="S10" value="3.2191871174597773" />
-      <entry key="S30" value="5.516842059950501" />
-      <entry key="S60" value="7.260361916019521" />
-      <entry key="M2" value="9.410707672117015" />
-      <entry key="M5" value="17.91542029936981" />
-      <entry key="M10" value="34.49222973609431" />
-      <entry key="M15" value="48.51475654543676" />
-      <entry key="M30" value="81.63288489881498" />
-      <entry key="H1" value="139.17976309009487" />
-      <entry key="H2" value="247.93299141577907" />
-      <entry key="H4" value="443.5689166802949" />
-      <entry key="D1" value="1398.1504719471604" />
-      <entry key="W1" value="2446.4754250831684" />
+      <entry key="MS100" value="1.0000000000002227" />
+      <entry key="MS500" value="1.0029480975947738" />
+      <entry key="S2" value="1.2333048790979941" />
+      <entry key="S5" value="1.5968153696963263" />
+      <entry key="S10" value="1.9437162262344234" />
+      <entry key="S30" value="2.697172902931631" />
+      <entry key="S60" value="4.035767073309319" />
+      <entry key="M2" value="7.268417471842668" />
+      <entry key="M5" value="18.746081746288457" />
+      <entry key="M10" value="46.34967304318916" />
+      <entry key="M15" value="78.86408240160907" />
+      <entry key="M30" value="171.12033017864755" />
+      <entry key="H1" value="291.7576961185766" />
+      <entry key="H2" value="403.208282157464" />
+      <entry key="H4" value="515.1914006407484" />
+      <entry key="D1" value="1481.5663032196587" />
+      <entry key="W1" value="2879.8250113302806" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="2.8343905238084966E-69" />
-      <entry key="S2" value="7.296505628820495E-18" />
-      <entry key="S5" value="1.3971594377455714E-7" />
-      <entry key="S10" value="3.737861444897797E-4" />
-      <entry key="S30" value="0.07260542981095836" />
-      <entry key="S60" value="0.2943103334194202" />
-      <entry key="M2" value="0.7676383708452228" />
-      <entry key="M5" value="2.504776212155041" />
-      <entry key="M10" value="5.014390098443014" />
-      <entry key="M15" value="6.67203515521908" />
-      <entry key="M30" value="9.31955548630843" />
-      <entry key="H1" value="12.11900560318433" />
-      <entry key="H2" value="16.605020823626962" />
-      <entry key="H4" value="24.58471308997916" />
-      <entry key="D1" value="52.093773178786485" />
-      <entry key="W1" value="67.90238812565514" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="4.771219448015102E-148" />
+      <entry key="S5" value="1.1788315665676609E-59" />
+      <entry key="S10" value="3.4334116656288985E-30" />
+      <entry key="S30" value="1.5086041316722194E-10" />
+      <entry key="S60" value="1.2282524706558598E-5" />
+      <entry key="M2" value="0.0035046434915411476" />
+      <entry key="M5" value="0.1044308095534057" />
+      <entry key="M10" value="0.3545452857200274" />
+      <entry key="M15" value="0.647793952756356" />
+      <entry key="M30" value="1.7825183578575898" />
+      <entry key="H1" value="3.798805180934553" />
+      <entry key="H2" value="6.103392971649163" />
+      <entry key="H4" value="9.714413550066576" />
+      <entry key="D1" value="43.9411256310508" />
+      <entry key="W1" value="73.92448391340764" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.4992893041164438" />
-      <entry key="MS500" value="1.1767096870745273" />
-      <entry key="S2" value="1.7631386111489173" />
-      <entry key="S5" value="2.338242217514992" />
-      <entry key="S10" value="3.2015397203390736" />
-      <entry key="S30" value="5.570922503624485" />
-      <entry key="S60" value="7.531130991636888" />
-      <entry key="M2" value="10.148657106463082" />
-      <entry key="M5" value="20.361254985580906" />
-      <entry key="M10" value="39.42556735900595" />
-      <entry key="M15" value="55.104647873125074" />
-      <entry key="M30" value="90.88468682778787" />
-      <entry key="H1" value="151.24860053945687" />
-      <entry key="H2" value="264.50029183160126" />
-      <entry key="H4" value="468.12489997955186" />
-      <entry key="D1" value="1450.2326852361846" />
-      <entry key="W1" value="2514.375182872263" />
+      <entry key="MS100" value="9.315546929694352E-5" />
+      <entry key="MS500" value="0.1567675104439659" />
+      <entry key="S2" value="0.7792217335891356" />
+      <entry key="S5" value="1.3347993495525918" />
+      <entry key="S10" value="1.7852437369314151" />
+      <entry key="S30" value="2.6332420676404578" />
+      <entry key="S60" value="4.000994348728265" />
+      <entry key="M2" value="7.252452841555588" />
+      <entry key="M5" value="18.839128182272752" />
+      <entry key="M10" value="46.694835418362146" />
+      <entry key="M15" value="79.5023558323722" />
+      <entry key="M30" value="172.88936118150798" />
+      <entry key="H1" value="295.53963433484677" />
+      <entry key="H2" value="409.2967748645726" />
+      <entry key="H4" value="524.8936007328184" />
+      <entry key="D1" value="1525.4976827717715" />
+      <entry key="W1" value="2953.746700342633" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -117,62 +107,64 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.@Property.executor": "Run",
-    "Python.ASI Methods.executor": "Run",
-    "Python.Alarm clock.executor": "Run",
-    "Python.Banking Program.executor": "Run",
-    "Python.Decorators.executor": "Run",
-    "Python.Duck Typing.executor": "Run",
-    "Python.File detection.executor": "Run",
-    "Python.Hangman Game.executor": "Run",
-    "Python.Inheritnace Types.executor": "Run",
-    "Python.Magic Methods.executor": "Run",
-    "Python.Menu Card.executor": "Run",
-    "Python.Multithreading.executor": "Run",
-    "Python.Polymorphism.executor": "Run",
-    "Python.PyQt5  Images.executor": "Run",
-    "Python.PyQt5  Layouts.executor": "Run",
-    "Python.PyQt5 Buttons.executor": "Run",
-    "Python.PyQt5 CSS.executor": "Run",
-    "Python.PyQt5 Checkboxes.executor": "Run",
-    "Python.PyQt5 Digital Clock.executor": "Run",
-    "Python.PyQt5 Labels.executor": "Run",
-    "Python.PyQt5 Line Edits.executor": "Run",
-    "Python.PyQt5 RadioButtons.executor": "Run",
-    "Python.Reading file.executor": "Run",
-    "Python.Request api data.executor": "Run",
-    "Python.creating file.executor": "Run",
-    "Python.date and time.executor": "Run",
-    "Python.encryption program.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pyQT5 GUI Boiler plate.executor": "Run",
-    "Python.pyQT5 intro.executor": "Run",
-    "Python.quiz game.executor": "Run",
-    "Python.randon number guessing.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/khans/python learning",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.@Property.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ASI Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Alarm clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Banking Program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Digital Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Duck Typing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.File detection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Hangman Game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritnace Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Magic Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Menu Card.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Multithreading.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5  Images.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5  Layouts.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 Buttons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 CSS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 Checkboxes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 Digital Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 Labels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 Line Edits.executor&quot;: &quot;Run&quot;,
+    &quot;Python.PyQt5 RadioButtons.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Reading file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Request api data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Stopwatch Project.executor&quot;: &quot;Run&quot;,
+    &quot;Python.creating file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.date and time.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encryption program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyQT5 GUI Boiler plate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pyQT5 intro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.quiz game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.randon number guessing.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/khans/python learning&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -194,7 +186,10 @@
       <workItem from="1786116934157" duration="10764000" />
       <workItem from="1786376645426" duration="69000" />
       <workItem from="1786376762540" duration="72000" />
-      <workItem from="1786377957832" duration="26120000" />
+      <workItem from="1786377957832" duration="31758000" />
+      <workItem from="1786524201642" duration="2830000" />
+      <workItem from="1786528329263" duration="11000" />
+      <workItem from="1786528583832" duration="3112000" />
     </task>
     <task id="LOCAL-00001" summary="added all files">
       <option name="closed" value="true" />
@@ -252,7 +247,23 @@
       <option name="project" value="LOCAL" />
       <updated>1786183009601</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added all files">
+      <option name="closed" value="true" />
+      <created>1786476858268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1786476858268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added all files">
+      <option name="closed" value="true" />
+      <created>1786477105361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1786477105361</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -280,7 +291,9 @@
     <SUITE FILE_PATH="coverage/python_learning$Inheritnace_Types.coverage" NAME="Inheritnace Types Coverage Results" MODIFIED="1786009517834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1786376709511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python Projects" />
     <SUITE FILE_PATH="coverage/python_learning$PyQt5__Images.coverage" NAME="PyQt5  Images Coverage Results" MODIFIED="1786448366607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Stopwatch_Project.coverage" NAME="Stopwatch Project Coverage Results" MODIFIED="1786531554835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$PyQt5_Checkboxes.coverage" NAME="PyQt5 Checkboxes Coverage Results" MODIFIED="1786458430870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Digital_Clock.coverage" NAME="Digital Clock Coverage Results" MODIFIED="1786531567420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Hangman_Game.coverage" NAME="Hangman Game Coverage Results" MODIFIED="1785953348695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Multithreading.coverage" NAME="Multithreading Coverage Results" MODIFIED="1786428817168" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Reading_file.coverage" NAME="Reading file Coverage Results" MODIFIED="1786173198718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
