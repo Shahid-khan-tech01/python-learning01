@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa1b550b-535d-4ae3-972b-443463aa818b" name="Changes" comment="added all files">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Weather Program.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -198,7 +196,7 @@
       <workItem from="1786528329263" duration="11000" />
       <workItem from="1786528583832" duration="3188000" />
       <workItem from="1786531824004" duration="8678000" />
-      <workItem from="1786545707980" duration="4812000" />
+      <workItem from="1786545707980" duration="5317000" />
     </task>
     <task id="LOCAL-00001" summary="added all files">
       <option name="closed" value="true" />
@@ -287,6 +285,7 @@
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added weather app" />
     <MESSAGE value="added all files" />
     <option name="LAST_COMMIT_MESSAGE" value="added all files" />
   </component>
@@ -307,7 +306,7 @@
     <SUITE FILE_PATH="coverage/python_learning$encryption_program.coverage" NAME="encryption program Coverage Results" MODIFIED="1785946984945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Inheritnace_Types.coverage" NAME="Inheritnace Types Coverage Results" MODIFIED="1786009517834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$main.coverage" NAME="main Coverage Results" MODIFIED="1786376709511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Python Projects" />
-    <SUITE FILE_PATH="coverage/python_learning$Weather_Program.coverage" NAME="Weather Program Coverage Results" MODIFIED="1786550122284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_learning$Weather_Program.coverage" NAME="Weather Program Coverage Results" MODIFIED="1786550764378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$PyQt5__Images.coverage" NAME="PyQt5  Images Coverage Results" MODIFIED="1786448366607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$Stopwatch_Project.coverage" NAME="Stopwatch Project Coverage Results" MODIFIED="1786531804546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python_learning$PyQt5_Checkboxes.coverage" NAME="PyQt5 Checkboxes Coverage Results" MODIFIED="1786458430870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
